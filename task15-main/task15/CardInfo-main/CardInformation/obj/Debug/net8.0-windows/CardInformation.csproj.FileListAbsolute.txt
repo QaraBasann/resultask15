@@ -1,0 +1,55 @@
+C:\Users\Zakir\OneDrive\Desktop\BMU\c#\masin oyunu\CardInformation\CardInformation\bin\Debug\net8.0-windows\CardInformation.exe
+C:\Users\Zakir\OneDrive\Desktop\BMU\c#\masin oyunu\CardInformation\CardInformation\bin\Debug\net8.0-windows\CardInformation.deps.json
+C:\Users\Zakir\OneDrive\Desktop\BMU\c#\masin oyunu\CardInformation\CardInformation\bin\Debug\net8.0-windows\CardInformation.runtimeconfig.json
+C:\Users\Zakir\OneDrive\Desktop\BMU\c#\masin oyunu\CardInformation\CardInformation\bin\Debug\net8.0-windows\CardInformation.dll
+C:\Users\Zakir\OneDrive\Desktop\BMU\c#\masin oyunu\CardInformation\CardInformation\bin\Debug\net8.0-windows\CardInformation.pdb
+C:\Users\Zakir\OneDrive\Desktop\BMU\c#\masin oyunu\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.Form1.resources
+C:\Users\Zakir\OneDrive\Desktop\BMU\c#\masin oyunu\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.Properties.Resources.resources
+C:\Users\Zakir\OneDrive\Desktop\BMU\c#\masin oyunu\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.csproj.GenerateResource.cache
+C:\Users\Zakir\OneDrive\Desktop\BMU\c#\masin oyunu\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakir\OneDrive\Desktop\BMU\c#\masin oyunu\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.AssemblyInfoInputs.cache
+C:\Users\Zakir\OneDrive\Desktop\BMU\c#\masin oyunu\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.AssemblyInfo.cs
+C:\Users\Zakir\OneDrive\Desktop\BMU\c#\masin oyunu\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.csproj.CoreCompileInputs.cache
+C:\Users\Zakir\OneDrive\Desktop\BMU\c#\masin oyunu\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.dll
+C:\Users\Zakir\OneDrive\Desktop\BMU\c#\masin oyunu\CardInformation\CardInformation\obj\Debug\net8.0-windows\refint\CardInformation.dll
+C:\Users\Zakir\OneDrive\Desktop\BMU\c#\masin oyunu\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.pdb
+C:\Users\Zakir\OneDrive\Desktop\BMU\c#\masin oyunu\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.genruntimeconfig.cache
+C:\Users\Zakir\OneDrive\Desktop\BMU\c#\masin oyunu\CardInformation\CardInformation\obj\Debug\net8.0-windows\ref\CardInformation.dll
+C:\Users\Zakir\Source\Repos\CardInformation\CardInformation\CardInformation\bin\Debug\net8.0-windows\CardInformation.exe
+C:\Users\Zakir\Source\Repos\CardInformation\CardInformation\CardInformation\bin\Debug\net8.0-windows\CardInformation.deps.json
+C:\Users\Zakir\Source\Repos\CardInformation\CardInformation\CardInformation\bin\Debug\net8.0-windows\CardInformation.runtimeconfig.json
+C:\Users\Zakir\Source\Repos\CardInformation\CardInformation\CardInformation\bin\Debug\net8.0-windows\CardInformation.dll
+C:\Users\Zakir\Source\Repos\CardInformation\CardInformation\CardInformation\bin\Debug\net8.0-windows\CardInformation.pdb
+C:\Users\Zakir\Source\Repos\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.Form1.resources
+C:\Users\Zakir\Source\Repos\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.Properties.Resources.resources
+C:\Users\Zakir\Source\Repos\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.csproj.GenerateResource.cache
+C:\Users\Zakir\Source\Repos\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakir\Source\Repos\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.AssemblyInfoInputs.cache
+C:\Users\Zakir\Source\Repos\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.AssemblyInfo.cs
+C:\Users\Zakir\Source\Repos\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.csproj.CoreCompileInputs.cache
+C:\Users\Zakir\Source\Repos\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.sourcelink.json
+C:\Users\Zakir\Source\Repos\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.dll
+C:\Users\Zakir\Source\Repos\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\refint\CardInformation.dll
+C:\Users\Zakir\Source\Repos\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.pdb
+C:\Users\Zakir\Source\Repos\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.genruntimeconfig.cache
+C:\Users\Zakir\Source\Repos\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\ref\CardInformation.dll
+C:\Users\user\Documents\GitHub\task15_1\task15\CardInfo-main\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.dll
+C:\Users\user\Documents\GitHub\task15_1\task15\CardInfo-main\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\refint\CardInformation.dll
+C:\Users\user\Documents\GitHub\task15_1\task15\CardInfo-main\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.pdb
+C:\Users\resul\OneDrive\Desktop\aminev\task15_1-main\task15_1-main\task15\CardInfo-main\CardInformation\CardInformation\CardInformation\bin\Debug\net8.0-windows\CardInformation.exe
+C:\Users\resul\OneDrive\Desktop\aminev\task15_1-main\task15_1-main\task15\CardInfo-main\CardInformation\CardInformation\CardInformation\bin\Debug\net8.0-windows\CardInformation.deps.json
+C:\Users\resul\OneDrive\Desktop\aminev\task15_1-main\task15_1-main\task15\CardInfo-main\CardInformation\CardInformation\CardInformation\bin\Debug\net8.0-windows\CardInformation.runtimeconfig.json
+C:\Users\resul\OneDrive\Desktop\aminev\task15_1-main\task15_1-main\task15\CardInfo-main\CardInformation\CardInformation\CardInformation\bin\Debug\net8.0-windows\CardInformation.dll
+C:\Users\resul\OneDrive\Desktop\aminev\task15_1-main\task15_1-main\task15\CardInfo-main\CardInformation\CardInformation\CardInformation\bin\Debug\net8.0-windows\CardInformation.pdb
+C:\Users\resul\OneDrive\Desktop\aminev\task15_1-main\task15_1-main\task15\CardInfo-main\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.Form1.resources
+C:\Users\resul\OneDrive\Desktop\aminev\task15_1-main\task15_1-main\task15\CardInfo-main\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.Properties.Resources.resources
+C:\Users\resul\OneDrive\Desktop\aminev\task15_1-main\task15_1-main\task15\CardInfo-main\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.csproj.GenerateResource.cache
+C:\Users\resul\OneDrive\Desktop\aminev\task15_1-main\task15_1-main\task15\CardInfo-main\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\OneDrive\Desktop\aminev\task15_1-main\task15_1-main\task15\CardInfo-main\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.AssemblyInfoInputs.cache
+C:\Users\resul\OneDrive\Desktop\aminev\task15_1-main\task15_1-main\task15\CardInfo-main\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.AssemblyInfo.cs
+C:\Users\resul\OneDrive\Desktop\aminev\task15_1-main\task15_1-main\task15\CardInfo-main\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.csproj.CoreCompileInputs.cache
+C:\Users\resul\OneDrive\Desktop\aminev\task15_1-main\task15_1-main\task15\CardInfo-main\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.dll
+C:\Users\resul\OneDrive\Desktop\aminev\task15_1-main\task15_1-main\task15\CardInfo-main\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\refint\CardInformation.dll
+C:\Users\resul\OneDrive\Desktop\aminev\task15_1-main\task15_1-main\task15\CardInfo-main\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.pdb
+C:\Users\resul\OneDrive\Desktop\aminev\task15_1-main\task15_1-main\task15\CardInfo-main\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\CardInformation.genruntimeconfig.cache
+C:\Users\resul\OneDrive\Desktop\aminev\task15_1-main\task15_1-main\task15\CardInfo-main\CardInformation\CardInformation\CardInformation\obj\Debug\net8.0-windows\ref\CardInformation.dll
